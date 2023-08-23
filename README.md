@@ -15,7 +15,7 @@ For example, if you want to convert an image called `my_image.png`, you would ru
 The ASCII art will be saved in a file called `<image_name>_ascii_art.txt` in the same directory as the image file.
 
 ## Output
-[Example Output](src/image/)
+<img src="src/img/ASCII_Example_Output.png"></a>
 
 ## Dependencies
 
