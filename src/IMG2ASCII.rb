@@ -33,7 +33,7 @@ end
 
 # Main program
 if ARGV.length != 1
-  puts "Usage: ruby ascii_art_generator.rb <image_path>"
+  puts "Usage: IMG2ASCII.rb <image_path>"
   exit 1
 end
 
